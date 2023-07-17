@@ -2,6 +2,8 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 
+// This file transcluded from https://github.com/dotnet/roslyn/blob/122b43d10a03a061e40f7348cfd461c332a5e238/src/Dependencies/PooledObjects/PooledDelegates.cs
+
 using System.Runtime.CompilerServices;
 using Microsoft.Extensions.ObjectPool;
 
